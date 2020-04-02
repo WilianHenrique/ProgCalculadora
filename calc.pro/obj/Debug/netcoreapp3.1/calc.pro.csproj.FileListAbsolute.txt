@@ -1,0 +1,11 @@
+C:\Users\joão\source\repos\calc.pro\calc.pro\bin\Debug\netcoreapp3.1\calc.pro.exe
+C:\Users\joão\source\repos\calc.pro\calc.pro\bin\Debug\netcoreapp3.1\calc.pro.deps.json
+C:\Users\joão\source\repos\calc.pro\calc.pro\bin\Debug\netcoreapp3.1\calc.pro.runtimeconfig.json
+C:\Users\joão\source\repos\calc.pro\calc.pro\bin\Debug\netcoreapp3.1\calc.pro.runtimeconfig.dev.json
+C:\Users\joão\source\repos\calc.pro\calc.pro\bin\Debug\netcoreapp3.1\calc.pro.dll
+C:\Users\joão\source\repos\calc.pro\calc.pro\bin\Debug\netcoreapp3.1\calc.pro.pdb
+C:\Users\joão\source\repos\calc.pro\calc.pro\obj\Debug\netcoreapp3.1\calc.pro.csprojAssemblyReference.cache
+C:\Users\joão\source\repos\calc.pro\calc.pro\obj\Debug\netcoreapp3.1\calc.pro.AssemblyInfoInputs.cache
+C:\Users\joão\source\repos\calc.pro\calc.pro\obj\Debug\netcoreapp3.1\calc.pro.AssemblyInfo.cs
+C:\Users\joão\source\repos\calc.pro\calc.pro\obj\Debug\netcoreapp3.1\calc.pro.dll
+C:\Users\joão\source\repos\calc.pro\calc.pro\obj\Debug\netcoreapp3.1\calc.pro.pdb
